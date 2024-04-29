@@ -9,10 +9,6 @@ A stock inventory is created to check on the inventory status. The key functions
 - Search Items via Binary Search
 - Print out both Statistical & Graphical Report
 
-## Installation
-
-Install the latest version of [Visual Studio](https://visualstudio.microsoft.com/downloads/)
-
 ## Setting Up
 
 1) Install Visual Studio Code
