@@ -1,0 +1,4 @@
+123,Fruits,Apple,3,8
+234,Fruits,Banana,2,10
+678,Drinks,Milk,6,3
+567,Fruits,Strawberry,3,233
